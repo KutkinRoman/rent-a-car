@@ -1,4 +1,4 @@
-# REANT A CAR
+# RENT A CAR
 ____
 
 ## Frontend
